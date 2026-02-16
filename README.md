@@ -1,5 +1,9 @@
 # 📊 Superstore Sales & Business Insights Dashboard
 
+![Dashboard Preview](dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 This project was developed as part of a **Data Analytics Internship**.  
@@ -67,16 +71,6 @@ The dataset includes:
 - Sales show consistent growth from 2015 to 2017.
 - Revenue is concentrated among the top-performing states.
 - Certain sub-categories significantly drive total sales performance.
-
----
-
-## 📈 Dashboard Preview
-
-(Add your dashboard screenshot in the repository and name it: dashboard.png)
-
-Then ensure this line works automatically:
-
-![Dashboard Preview](dashboard.png)
 
 ---
 
